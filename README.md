@@ -1,7 +1,7 @@
 # Webfishing Borzois
 Borzoi species for Webfishing! What a long sniffer.
 <p align="center">
-	<img src="https://github.com/user-attachments/assets/d4ec2b33-951d-440c-ab0c-b32649a0cfc3"/>
+	<img src="https://github.com/user-attachments/assets/23f917f8-59f0-40ba-8e13-ce2b6111a274"/>
 </p>
 
 ## Borzois! Very long snout.
@@ -17,10 +17,10 @@ Install the required dependencies (Requirements above)
 Download the mod zip [here](https://github.com/JohnDWolfe/WebfishingBorzoi/releases)!
 Unzip GnarlyGnoll.Borzoi, placing the folder in your WEBFISHING/GDWeave/mods folder
 <table>
-<td><img src="https://github.com/user-attachments/assets/ddd4b131-6f6f-4d5c-a657-8f24f16153cf" width=265 height=200></td>
-<td><img src="https://github.com/user-attachments/assets/6d0293ff-d263-4430-a249-b038db761b04" width=200 height=240></td>
-<td><img src="https://github.com/user-attachments/assets/c6d2fec0-7f6e-4059-96d0-1dc15ff51eb7" width=200 height=200></td>
-<td><img src="https://github.com/user-attachments/assets/08ee2487-03a5-49d1-ab1d-1cda2c86b0f4" width=350 height=200></td>
+<td><img src="https://github.com/user-attachments/assets/c347d333-52b0-4fd4-8ee0-dd8f8961d8a0" width=280 height=200></td>
+<td><img src="https://github.com/user-attachments/assets/d1ae9042-c9f6-4c8b-ab14-3f6f3ecef579" width=200 height=230></td>
+<td><img src="https://github.com/user-attachments/assets/cd75ae36-cba7-4b5d-822a-a169bb856e35" width=210 height=200></td>
+<td><img src="https://github.com/user-attachments/assets/41b3131d-0742-47c4-b6b1-cbc9437a868c" width=350 height=200></td>
  </table>
 
 ### HELP!!!
