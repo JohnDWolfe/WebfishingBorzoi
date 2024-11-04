@@ -8,6 +8,14 @@ Borzoi species for Webfishing! What a long sniffer.
 Playable species with marking variations for the 4 unmodded coats.
 Uses the base game dog bark/whine/growl.
 
+## Requirements
+- [GDWeave](https://github.com/NotNite/GDWeave/tree/main)
+- [Lure](https://github.com/Sulayre/WebfishingLure)
+
+## Installation
+Install the required dependencies (Requirements above)
+Download the mod zip [here](https://github.com/JohnDWolfe/WebfishingBorzoi/releases)!
+Unzip GnarlyGnoll.Borzoi, placing the folder in your WEBFISHING/GDWeave/mods folder
 <table>
 <td><img src="https://github.com/user-attachments/assets/ddd4b131-6f6f-4d5c-a657-8f24f16153cf" width=265 height=200></td>
 <td><img src="https://github.com/user-attachments/assets/6d0293ff-d263-4430-a249-b038db761b04" width=200 height=240></td>
