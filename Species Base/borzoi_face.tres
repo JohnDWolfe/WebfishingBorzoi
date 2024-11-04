@@ -120,7 +120,7 @@ tracks/9/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( 0.101, -0.382, 0.895 ) ]
+"values": [ Vector3( 0.101, -0.382, 0.849 ) ]
 }
 tracks/10/type = "value"
 tracks/10/path = NodePath("mouth_l:rotation_degrees")
@@ -132,7 +132,7 @@ tracks/10/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( 7.638, 30.111, 2.304 ) ]
+"values": [ Vector3( 12.765, 30.111, 2.304 ) ]
 }
 tracks/11/type = "value"
 tracks/11/path = NodePath("mouth_l:scale")
@@ -144,7 +144,7 @@ tracks/11/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( 0.364552, 0.364552, 0.364552 ) ]
+"values": [ Vector3( 0.366, 0.365, 0.365 ) ]
 }
 tracks/12/type = "value"
 tracks/12/path = NodePath("mouth_r:translation")
@@ -156,7 +156,7 @@ tracks/12/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( -0.101, -0.382, 0.895 ) ]
+"values": [ Vector3( -0.101, -0.382, 0.849 ) ]
 }
 tracks/13/type = "value"
 tracks/13/path = NodePath("mouth_r:rotation_degrees")
@@ -168,7 +168,7 @@ tracks/13/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( 7.638, -30.111, -2.304 ) ]
+"values": [ Vector3( 12.765, -30.111, -2.304 ) ]
 }
 tracks/14/type = "value"
 tracks/14/path = NodePath("mouth_r:scale")
@@ -180,7 +180,7 @@ tracks/14/keys = {
 "times": PoolRealArray( 0 ),
 "transitions": PoolRealArray( 1 ),
 "update": 0,
-"values": [ Vector3( 0.364552, 0.364552, 0.364552 ) ]
+"values": [ Vector3( 0.366, 0.365, 0.365 ) ]
 }
 tracks/15/type = "value"
 tracks/15/path = NodePath("blush:translation")
